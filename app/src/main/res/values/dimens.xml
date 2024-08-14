@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_width">0dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="textSiZeTV">16sp</dimen>
+    <dimen name="textSiZeET">26sp</dimen>
+    <dimen name="textSiZeBT">26sp</dimen>
+    <dimen name="minHeight">48dp</dimen>
+    <dimen name="intermediate">10dp</dimen>
+    <dimen name="image">200dp</dimen>
+</resources>

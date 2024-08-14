@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_11_number_4</string>
+    <string name="exit">Exit</string>
+    <string name="toast_exit">Приложение закрыто</string>
+    <string name="toolbar_title">Каталог пользователей</string>
+    <string name="toolbar_subtitle">Mod. 11 № 4</string>
+    <string name="editTextNameHint">Имя</string>
+    <string name="editTextAgeHint">Возраст</string>
+    <string name="saveLaunch">Сохранить</string>
+    <string name="listViewLWDelite">Пользователь удален</string>
+    <string name="myDialogTitle">Внимание</string>
+    <string name="myDialogMessage">Удалить пользователя %1$s?</string>
+</resources>
